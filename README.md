@@ -1,7 +1,9 @@
 # MATH-3345-Undergraduate-Numerical-Analysis
-This is the C++ code that I wrote in undergraduate Numerical Analysis
+This is the C++ code that I wrote in undergraduate Numerical Analysis the Fall of 2016 at the University of Texas at Arlington.
 
-The files are organized into 14 completed homeworks. Notably, the following algorightms are included in the following:
+The files are organized into 14 completed homeworks.
+Notably, the following algorightms are included in the following:
+
   Homework 1:
   
     Function Evaluation
